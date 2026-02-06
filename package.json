@@ -11,5 +11,8 @@
     "backend"
   ],
   "author": "Prashansha Nigam",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
 }
