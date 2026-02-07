@@ -83,9 +83,6 @@ To contribute to the project, please follow these steps:
 The project is licensed under the MIT License.
 
 ## 📬 Contact
-For any questions or concerns, please contact us at [support@example.com](mailto:support@example.com).
-
-## 💖 Thanks Message
-This is written by readme.ai so and so [readme.ai](https://readme-generator-phi.vercel.app/)
+For any questions or concerns, please contact us at [support@example.com](mailto:nigamprashansha@gmail.com).
 
 - [Model link](https://app.eraser.io/workspace/Jct2aaOvoVyoMrsHUeQY?origin=share&diagram=B2QskPe1fUDFA8-6XaOix)
