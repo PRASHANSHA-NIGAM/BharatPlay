@@ -82,7 +82,4 @@ To contribute to the project, please follow these steps:
 ## 📝 License
 The project is licensed under the MIT License.
 
-## 📬 Contact
-For any questions or concerns, please contact us at [support@example.com](mailto:nigamprashansha@gmail.com).
-
 - [Model link](https://app.eraser.io/workspace/Jct2aaOvoVyoMrsHUeQY?origin=share&diagram=B2QskPe1fUDFA8-6XaOix)
